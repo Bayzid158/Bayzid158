@@ -1,74 +1,104 @@
-# 🌈 Hello, I'm [Your Name] 🌈
-
-Welcome to my GitHub profile! I’m a dedicated .NET Developer passionate about crafting high-quality software. Here’s a bit about me and the tech I love. 🚀
-
----
-
-## 📌 About Me
-
-- 🔭 **Currently working on**: [Your Project/Tech Stack]
-- 🌱 **Learning**: [New Technologies/Skills]
-- 👯 **Looking to collaborate on**: [Exciting .NET Projects]
-- 🤔 **Seeking help with**: [Specific Challenge or Skill]
-- 💬 **Ask me about**: .NET, C#, ASP.NET Core, MVC, and more
-- 📫 **Contact me**: [Your Email] | [LinkedIn Profile]
-- 😄 **Pronouns**: [Your Pronouns]
-- ⚡ **Fun fact**: I enjoy [Your Fun Fact]
-
----
-
-## 🛠️ Technologies & Tools
+<h1 align="center">Hey there, I'm <span style="color:#6a5acd">Md. Bayzid Rahaman</span> 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-9b5de5?style=flat&logo=csharp&logoColor=fff" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=dotnet&logoColor=fff" alt=".NET">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-333?style=flat&logo=aspdotnet&logoColor=fff" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/Entity%20Framework-4B8DB1?style=flat&logo=entityframework&logoColor=fff" alt="Entity Framework">
-  <img src="https://img.shields.io/badge/MVC-0078D4?style=flat&logo=aspdotnet&logoColor=fff" alt="MVC">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=fff" alt="jQuery">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=fff" alt="Azure">
+  <em>A passionate <strong>ASP.NET</strong> and <strong>.NET Core Web API</strong> Developer, skilled in <strong>PHP</strong>, <strong>Laravel</strong>, <strong>MSSQL</strong>, and <strong>MySQL</strong>!</em>
 </p>
 
----
+### 
 
-## 📊 GitHub Stats
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs&bg_color=1e1e1e&text_color=ffffff&icon_color=9b5de5" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&bg_color=1e1e1e&text_color=ffffff" alt="Top Languages">
+✨ I'm a Full-Stack Developer specializing in building secure, scalable, and optimized web applications using <strong>ASP.NET MVC</strong> and <strong>.NET Core Web API</strong>.<br> 
+📚 Currently, I'm working as a Software Engineer at Takaful Life Insurance PLC.<br> 
+🎯 My goals are to grow as a versatile developer and become a successful entrepreneur.<br>
+💬 Feel free to ask me about <strong>ASP.NET Core, Web APIs, PHP, Laravel, MSSQL, MySQL, RDLC and Crystal Reports</strong>.
 </p>
 
----
+### 
 
-## 🌟 Connect with Me
+<h2 align="center">💻 Technologies I Work With</h2>
+
+<div align="center">
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
+  <img width="20"/>
+  <!-- .NET Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="DotNet Core" />
+  <img width="20"/>
+  <!-- ASP.NET MVC -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="ASP.NET MVC" />
+  <img width="20"/>
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img width="20"/>
+  <!-- Laravel -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="Laravel" />
+  <img width="20"/>
+  <!-- MSSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="MSSQL" />
+  <img width="20"/>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img width="20"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img width="20"/>
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img width="20"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img width="20"/>
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+  <img width="20"/>
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="Tailwind" />
+</div>
+
+### 
+
+<h2 align="center">🌟 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+### 
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+### 
+
+<h2 align="center">📊 My Expertise</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourProfile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/YourProfile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff" alt="Twitter">
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff" alt="Email">
-  </a>
-  <a href="https://github.com/YourUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff" alt="GitHub">
-  </a>
+• Proficient in developing scalable web applications using <strong>ASP.NET MVC</strong> and <strong>.NET Core Web APIs</strong>.<br>
+• Expertise in working with <strong>MSSQL</strong> and <strong>MySQL</strong> for database management.<br>
+• Experience in generating complex reports using <strong>Crystal Reports</strong> and <strong>RDLC Reports</strong>.<br>
+• Skilled in API development, integration, and optimization.<br>
+• Currently learning <strong>React</strong> for frontend development.
 </p>
 
----
+### 
 
-## 🎨 Fun & Creative
+<h2 align="center">⚡ Fun Facts</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ozkYjK30teYmUdm/giphy.gif" alt="Creative Animation" width="500">
-</p>
-
----
-
-> “The best way to predict the future is to invent it.” – Alan Kay
-
-<!--
-Feel free to add a section to highlight specific projects, open source contributions, or other details that showcase your skills and interests.
--->
+<p align="center">✨ I enjoy solving complex algorithms, optimizing systems, and learning the latest technologies in the .NET and web ecosystems.</p>
