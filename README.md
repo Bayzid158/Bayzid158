@@ -1,7 +1,7 @@
 <h1 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">Hey there, I'm <span style="color:#dd0031;">Md. Bayzid Rahaman</span> 👋</h1>
 
-<p align="center" style="font-family: 'Roboto', sans-serif;">
-  <em>A passionate <strong>ASP.NET</strong> and <strong>.NET Core Web API</strong> Developer, also skilled in <strong>PHP</strong> and <strong>Laravel</strong>!</em>
+<p align="center">
+  <em>A Full-Stack Developer specializing in <strong>ASP.NET Core</strong>, <strong>.NET Web APIs</strong>, and proficient in <strong>PHP</strong> and <strong>Laravel</strong>. I build scalable, secure, and efficient web applications.</em>
 </p>
 
 ### 
@@ -9,10 +9,10 @@
 <h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">🚀 About Me</h2>
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
-✨ I'm a Full-Stack Developer focusing on building secure, scalable, and optimized web applications.<br> 
-📚 Currently, I'm working as a Software Engineer at Takaful Life Insurance PLC.<br> 
-🎯 My goals are to grow as a versatile developer and become a successful entrepreneur.<br>
-💬 Feel free to ask me about <strong>ASP.NET Core, Web APIs, PHP, Laravel, MSSQL, MySQL, RDLC and Crystal Reports</strong>.
+✨ I'm currently working as a Software Engineer at Akij Venture Group.<br> 
+🎯 My goal is to become a successful entrepreneur through full-stack development.<br> 
+💬 Ask me about <strong>ASP.NET Core, PHP, Web APIs, MSSQL, MySQL, Laravel</strong>.<br>
+🌱 Learning <strong>React.js</strong> for modern frontend development.<br>
 </p>
 
 ### 
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
   <img width="20"/>
   <!-- .NET Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt="DotNet Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" alt=".NET Core" />
   <img width="20"/>
   <!-- ASP.NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="ASP.NET Core" />
@@ -59,11 +59,12 @@
 
 ### 
 
-<h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">🌟 GitHub Stats</h2>
+<h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">✨ Animated Coding Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=angular&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=angular&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 
@@ -87,18 +88,34 @@
 
 ### 
 
-<h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">📊 My Expertise</h2>
+<h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">📊 Expertise & Highlights</h2>
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
-• Proficient in developing scalable web applications using <strong>ASP.NET MVC</strong> and <strong>.NET Core Web APIs</strong>.<br>
-• Expertise in working with <strong>MSSQL</strong> and <strong>MySQL</strong> for database management.<br>
-• Experience in generating complex reports using <strong>Crystal Reports</strong> and <strong>RDLC Reports</strong>.<br>
-• Skilled in API development, integration, and optimization.<br>
-• Currently learning <strong>React</strong> for frontend development.
+• ASP.NET Core and MVC development with secure API integration.<br>
+• Mastery in both MSSQL and MySQL for complex data solutions.<br>
+• Expertise in building and optimizing RDLC and Crystal Reports.<br>
+• API development, RESTful services, and backend optimization.<br>
+• Frontend development using Bootstrap, Tailwind, and learning React.<br>
 </p>
 
 ### 
 
 <h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">⚡ Fun Facts</h2>
 
-<p align="center" style="font-family: 'Roboto', sans-serif;">✨ I enjoy solving complex algorithms, optimizing systems, and learning the latest technologies in the .NET and web ecosystems.</p>
+<p align="center" style="font-family: 'Roboto', sans-serif;">
+✨ I enjoy solving complex algorithms and optimizing code.<br>
+💻 I keep up with the latest trends in the .NET ecosystem and love experimenting with new technologies.
+</p>
+
+### 
+
+<h2 align="center" style="font-family: 'Roboto', sans-serif; color: #dd0031;">🚀 My Recent Projects</h2>
+
+<div align="center" style="font-family: 'Roboto', sans-serif;">
+  <a href="https://github.com/your-username/project-1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="https://github.com/your-username/project-2" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight" alt="Project 2" />
+  </a>
+</div>
